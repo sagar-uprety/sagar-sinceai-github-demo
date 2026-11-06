@@ -10,7 +10,12 @@
 - 💼 Experience: DevOps Engineer at SAP Fioneer; Tech Evangelist at Adex International
 
 ## Featured Projects
-- Explore my work in the [51 public repositories](https://github.com/sagar-uprety?tab=repositories) on GitHub.
+- Top repositories by commits in 2026:
+  - 🛡️ [Containerized Cybersecurity Lab Platform](https://github.com/sagar-uprety/containerized-cybersecurity-lab-platform) — 158 commits
+  - 📊 [UCC Landscape Monitoring Glass Pane](https://github.com/sagar-uprety/ucc-landscape-monitoring-glass-pane) — 84 commits
+  - ☁️ [AWS Pilotlight Multi-Region DR](https://github.com/sagar-uprety/aws-pilotlight-multi-region-dr) — 46 commits
+
+Explore the rest of my work in the [51 public repositories](https://github.com/sagar-uprety?tab=repositories) on GitHub.
 
 ## Tech & Interests
 - 🔭 Focus: DevOps, cloud engineering, hackathons, and developer communities
