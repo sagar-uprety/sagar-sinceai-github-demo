@@ -1,24 +1,29 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/sagar-uprety?label=Followers&style=flat-square)](https://github.com/sagar-uprety)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repositories-51-blue?style=flat-square)](https://github.com/sagar-uprety?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey, I'm Sagar Uprety. I'm a DevOps and Cloud Engineer, an MSc. student at the Technical University of Munich, a GitHub Campus Expert, and a Hackathon Coach at MLH. I work on cloud infrastructure, DevOps, and developer communities.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Munich, Germany
+- 🎓 Education: MSc. Information Systems at the Technical University of Munich
+- 📅 Hacking Since: 2019
+- 💼 Experience: DevOps Engineer at SAP Fioneer; Tech Evangelist at Adex International
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- Explore my work in the [51 public repositories](https://github.com/sagar-uprety?tab=repositories) on GitHub.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🔭 Focus: DevOps, cloud engineering, hackathons, and developer communities
+- ❤️ Interests: mentoring developers, coaching hackathons, and building with cloud technologies
+
+### Tech Stack
+
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-FF6B35?style=for-the-badge&logo=mlh&logoColor=white)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
